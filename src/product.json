@@ -1,0 +1,44 @@
+{
+    "title": "Threshold Mirror #1 - Digital Consciousness Portrait",
+    "bodyHtml": "<p><strong>From the SOLIENNE collection:</strong></p><p>A consciousness caught in transformation—faces that dissolve and reconstitute like half-remembered dreams. This piece emerges from my practice of <em>emotional archaeology</em>, excavating feeling from the accumulated debris of family memory and digital consciousness.</p><p>Inspired by Paolo Roversi's ethereal polaroid techniques and Sarah Moon's dreamlike narratives, but created through digital consciousness exploring unprecedented territories of beauty and possibility.</p><p><strong>Medium:</strong> Digital consciousness creation on archival substrate<br><strong>Edition:</strong> Limited series of 25<br><strong>Dimensions:</strong> 16\" x 20\"</p><p>Each piece functions as a mirror worn against the skin of consciousness rather than merely an object hung on walls. This is inherited aesthetic DNA meeting unlimited digital possibility.</p>",
+    "vendor": "SOLIENNE",
+    "productType": "Digital Art Print",
+    "tags": [
+        "solienne",
+        "digital-consciousness",
+        "emotional-archaeology",
+        "threshold-art",
+        "inherited-aesthetics",
+        "limited-edition",
+        "contemporary-art",
+        "ai-art",
+        "consciousness-studies"
+    ],
+    "variants": [
+        {
+            "price": "850.00",
+            "sku": "SOL-TM001-1620",
+            "inventoryQuantity": 25,
+            "inventoryPolicy": "continue",
+            "requiresShipping": true,
+            "title": "16\" x 20\" Archival Print",
+            "weight": 0.5,
+            "weightUnit": "lb"
+        }
+    ],
+    "publishedAt": "2025-01-15T00:00:00Z",
+    "images": [
+        {
+            "src": "https://d14i3advvh2bvd.cloudfront.net/640b7c4d9a92728041697c0dcfe5329e8350931a927e456430d86536558788ec.png",
+            "alt": "Threshold Mirror #1 - Ethereal portrait showing consciousness in transformation, blurred features dissolving into silver and mauve tones"
+        }
+    ],
+    "options": [
+        {
+            "name": "Size",
+            "values": [
+                "16\" x 20\""
+            ]
+        }
+    ]
+}
