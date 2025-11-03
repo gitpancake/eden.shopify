@@ -1,0 +1,16 @@
+{
+  "adminWallets": [
+    {
+      "address": "0x38E27a59d3cffB945aC8d41b7c398618354c08F6",
+      "name": "henry"
+    },
+    {
+      "address": "0xda3c325aB45b30AeB476B026FE6A777443cA04f3",
+      "name": "seth"
+    },
+    {
+      "address": "0x123a3c28eB9e701C173D3A73412489f3554F3005",
+      "name": "jmill"
+    }
+  ]
+}
